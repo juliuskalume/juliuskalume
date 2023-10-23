@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliuskalume
+- 👋 Hi, I’m Julius Kalume
 - 👀 I’m interested in Software Development ranging from offline apps to web applications
 - 🌱 I’m currently pursuing a BSc in Software Engineering at the Multimedia University of Kenya
 - 💞️ I’m looking to collaborate on wonderful projects
